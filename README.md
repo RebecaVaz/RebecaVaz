@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👩‍💻 Rebeca Delamico | Data Scientist
 
-<!--
-**RebecaVaz/RebecaVaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <img src="preview.gif" width="800" alt="My animated GitHub presentation">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🚀 About Me
+
+I am a Data Scientist interested in Data Analysis, Statistics and Machine Learning.
+
+I develop practical projects to improve my technical skills and transform data into meaningful solutions.
+
+### 🐍 Technologies
+
+- Python
+- Pandas
+- NumPy
+- SQL
+- Machine Learning
+- Data Visualization
+
+---
+
+*Turning data into meaningful insights.*
