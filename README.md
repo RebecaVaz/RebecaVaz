@@ -1,7 +1,14 @@
 # ♡ About Me 
 
+
 <div align="center">
-
-  <img src="github_presentation" width="800" alt="My animated GitHub presentation">
-
+  <video src="./github_presentation_compressed.mp4"
+         width="100%"
+         controls
+         autoplay
+         muted
+         loop
+         playsinline>
+  </video>
 </div>
+
