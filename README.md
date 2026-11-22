@@ -1,14 +1,6 @@
 # ♡ About Me 
 
-
-<div align="center">
-  <video src="./github_presentation.mp4"
-         width="100%"
-         controls
-         autoplay
-         muted
-         loop
-         playsinline>
-  </video>
-</div>
+<p align="center">
+  <img src="github_profile.png" width="100%" alt="Rebeca Delamico - Data Scientist">
+</p>
 
