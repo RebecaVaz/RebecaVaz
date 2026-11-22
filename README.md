@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="preview.gif" width="800" alt="My animated GitHub presentation">
+  <img src="github_presentation.gif" width="800" alt="My animated GitHub presentation">
 
 </div>
 
