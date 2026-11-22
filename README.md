@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <video src="./github_presentation_compressed.mp4"
+  <video src="./github_presentation.mp4"
          width="100%"
          controls
          autoplay
