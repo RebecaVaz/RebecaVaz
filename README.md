@@ -1,7 +1,7 @@
 # ♡ About Me 
 
 <p align="center">
-  <img src="about_me.gif" width="100%" alt="Rebeca Delamico - Data Scientist">
+  <img src="me.png" width="100%" alt="Rebeca Delamico - Data Scientist">
 </p>
 
 
